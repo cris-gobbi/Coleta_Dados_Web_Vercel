@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/index.py": {
+      "memory": 300,
+      "maxDuration": 10
+    }
+  }
+}
